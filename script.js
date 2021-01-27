@@ -106,7 +106,7 @@ function FinalPage() {
     var newScore = JSON.stringify(allScores);
     localStorage.setItem("allScores", newScore);
 
-    cardTitle.innerHTML = `<h3 id ="Highscore">Highscores</h3>`
+    cardTitle.innerHTML = `<h3 id="Highscore">Highscores</h3>`
 
     for (i = 0; i < allScores.length; i++) {
         listItem.innerHTML += `<ul class="list-group">

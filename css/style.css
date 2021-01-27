@@ -9,18 +9,18 @@
 }
 
 .card-header{
-    background-color: rgb(26, 134, 223) !important;
+    background-color: rgb(9, 231, 157) !important;
 }
 
 #currentTime{
-    color:blue;
+    color:rgb(6, 95, 65);
     font-weight: bold;
     padding-bottom:20px;
     text-align:right;
 }
 .form-check{
     text-align:left;
-    color: rgb(26, 134, 223);
+    color: rgb(44, 146, 107);;
     padding:3px;
 }
 
@@ -35,4 +35,8 @@
 }
 #resultHistory{
     margin-bottom:30px;
+}
+#Highscore{
+    font-size: 20px;
+    padding-bottom:10px;
 }
