@@ -1,0 +1,38 @@
+
+.container{
+    margin-top:70px;
+}
+
+
+#card-text{
+    padding:30px;
+}
+
+.card-header{
+    background-color: rgb(26, 134, 223) !important;
+}
+
+#currentTime{
+    color:blue;
+    font-weight: bold;
+    padding-bottom:20px;
+    text-align:right;
+}
+.form-check{
+    text-align:left;
+    color: rgb(26, 134, 223);
+    padding:3px;
+}
+
+#questions{
+    text-align:left;
+    padding-top:10px, 2px, 2px 2px;
+}
+
+#result{
+    color:rgb(2, 77, 15);
+    font-weight:bold;
+}
+#resultHistory{
+    margin-bottom:30px;
+}
